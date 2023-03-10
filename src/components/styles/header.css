@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    padding: 20px !important;
+    background-color: azure !important;
+    justify-content: space-between;
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;}
+
+header>a{
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid black !important;
+    border-radius: 4px;
+    color:black
+}
